@@ -1,4 +1,0 @@
-"# excursion" 
-"# excursion" 
-# excursion
-# excursion
